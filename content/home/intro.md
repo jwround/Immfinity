@@ -29,5 +29,5 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+Accelerating the pace at which therapeutic T-cell receptors become life saving immunotherapies
+{style="font-size: 1.2rem; background: #44608d; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}

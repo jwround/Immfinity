@@ -27,7 +27,7 @@ design:
     image_parallax: false
     text_color_light: true
     spacing:
-        padding: ['200px', '300px', '200px', '300px']
+        padding: ['20px', '30px', '20px', '30px']
 
   css_class: d-flex fullscreen align-items-center
 ---

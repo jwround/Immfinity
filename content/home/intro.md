@@ -28,6 +28,3 @@ design:
     text_color_light: true
   css_class: align-items-center
 ---
-
-Accelerating the pace at which therapeutic T-cell receptors become life saving immunotherapies
-{style="font-size: 1.2rem; background: #44608d; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}

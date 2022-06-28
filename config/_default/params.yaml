@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Business
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo minimal theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Biotechnology to accelerate Therapeutic T-cell receptors'
+    twitter: 'Immfinity'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

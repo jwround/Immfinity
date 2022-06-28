@@ -26,5 +26,7 @@ design:
     image_position: center
     image_parallax: false
     text_color_light: true
-  #css_class: align-items-center
+    padding = "60px", "0", "20px", "0" 
+
+  css_class: align-items-center
 ---

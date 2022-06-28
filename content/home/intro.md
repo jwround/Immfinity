@@ -6,7 +6,7 @@ widget: blank
 headless: true
 
 # Order that this section will appear in.
-weight: 10
+weight: 1
 
 author: admin
 design:

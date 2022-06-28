@@ -26,5 +26,5 @@ design:
     image_position: center
     image_parallax: false
     text_color_light: true
-  css_class: align-items-center
+  #css_class: align-items-center
 ---

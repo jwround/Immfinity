@@ -31,3 +31,4 @@ design:
 
   css_class: d-flex fullscreen align-items-center
 ---
+{{< figure src="logo.jpg" caption="A caption" numbered="true" >}}

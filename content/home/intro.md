@@ -26,7 +26,7 @@ design:
     image_position: center
     image_parallax: false
     text_color_light: true
-  css_class: d-flex fullscreen align-items-center
+  css_class: align-items-center
 ---
 
 Accelerating the pace at which therapeutic T-cell receptors become life saving immunotherapies

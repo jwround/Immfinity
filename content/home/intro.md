@@ -29,5 +29,5 @@ design:
     spacing:
         padding: ['20px', '0', '20px', '0']
 
-  css_class: d-flex align-items-center
+  css_class: d-flex fullscreen align-items-center
 ---

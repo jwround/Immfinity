@@ -17,13 +17,13 @@ design:
     #   Uncomment (by removing `#`) an option to apply it.
     #   Choose a light or dark text color by setting `text_color_light`.
     #   Any HTML color name or Hex value is valid.
-    color: black
+    color: white
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: logo.jpg # Name of image in `static/media/`.
-    image_darken: 0.4
+    #image_darken: 0.4
     image_size: cover
-    image_position: right
+    image_position: center
     image_parallax: true
     text_color_light: true
   css_class: d-flex fullscreen align-items-center

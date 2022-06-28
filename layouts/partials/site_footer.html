@@ -1,5 +1,11 @@
 <footer class="site-footer">
 
+  {{ with site.Params.footer.text }}
+  <p class="powered-by">
+    {{ . | markdownify | emojify }}
+  </p>
+  {{ end }}
+
   {{/* Display copyright license. */}}
 
 </footer>

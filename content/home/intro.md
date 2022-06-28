@@ -24,7 +24,7 @@ design:
     #image_darken: 0.4
     image_size: contain
     image_position: center
-    image_parallax: true
+    image_parallax: false
     text_color_light: true
   css_class: d-flex fullscreen align-items-center
 ---

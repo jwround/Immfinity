@@ -22,7 +22,7 @@ design:
     # gradient_end: ForestGreen
     image: logo.jpg # Name of image in `static/media/`.
     #image_darken: 0.4
-    image_size: contain
+    image_size: cover
     image_position: center
     image_parallax: false
     text_color_light: true

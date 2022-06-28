@@ -28,5 +28,5 @@ design:
     text_color_light: true
 
 
-  css_class: align-items-center
+  css_class: d-flex align-items-center
 ---
